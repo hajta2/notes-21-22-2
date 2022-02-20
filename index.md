@@ -12,9 +12,9 @@ Async course, practice on March 28th.
  | ----------- | ----- | ------- | ------- | ------- | ---- |
  | Points      | 0-1.5 | 1.5-2.5 | 2.5-3.5 | 3.5-4.5 | 4.5- |
 
- ## FuncAnal
+## FuncAnal
 [Materials](http://users.itk.ppke.hu/~vago/index_functional.html)
- ### Requirements
+### Requirements
   - Short test in every lecture (min 50%)
   - 2 Written Test: *March 31*, *May 19* 45 points each
   - 2 Small Written Test: *March 21*, *May 9* 5 points each, based on HW
