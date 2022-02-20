@@ -19,12 +19,7 @@ Async course, practice on March 28th.
   - 2 Written Test: *March 31*, *May 19* 45 points each
   - 2 Small Written Test: *March 21*, *May 9* 5 points each, based on HW
   - 1-2 Homework every week, at least 8 good solution
-  - Total Score: max 106 points
-
-     __         HW - 8 
-    \    WT  +  ------  
-    /__            2  
-
+  - Total Score: sum(WT) + (HW-8)/2, max 106 points
   - At least 40 points
   
    | Recommended Grade | 1     | 2       | 3       | 4       | 5    |
