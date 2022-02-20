@@ -1,6 +1,6 @@
 # 2021/22 2nd Semester
 ## Basics of Software Testing
-[Materials](https://drive.google.com/drive/folders/1C1oIP5ssHWa3sI5nRhQM6CuI9-p7-EG2).
+[Materials](https://drive.google.com/drive/folders/1C1oIP5ssHWa3sI5nRhQM6CuI9-p7-EG2)
 
 Async course, practice on March 28th.
 ### Requirements
@@ -22,6 +22,35 @@ Async course, practice on March 28th.
   - Total Score: sum(WT) + (HW-8)/2, max 106 points
   - At least 40 points
   
-   | Recommended Grade | 1     | 2       | 3       | 4       | 5    |
-   | ----------- | ----- | ------- | ------- | ------- | ---- |
-   | Points      | -60 | 60-79 | 80-92 | 93-99 | 100- |
+| Recommended Grade | 1     | 2       | 3       | 4       | 5    |
+| ----------- | ----- | ------- | ------- | ------- | ---- |
+| Points      | -60 | 60-79 | 80-92 | 93-99 | 100- |
+
+## Optimalization Methods
+[Materials](https://moodle.ppke.hu/course/view.php?id=781)
+
+[Notes](https://github.com/hajta2/notes-21-22-2/blob/main/OptMethods/opt.pdf)
+
+### Requirements
+    - One test in mid April - 30
+    - One Code - 20
+    - Final Test end of the course - 50
+    - Probably the points:
+
+| Final Grade | 1     | 2       | 3       | 4       | 5    |
+| ----------- | ----- | ------- | ------- | ------- | ---- |
+| Points      | 0-49 | 50-63 | 64-77 | 78-90 | 90-100 |
+
+## Scientific Python
+
+
+## Combinatorial Methods
+[Materials](https://moodle.ppke.hu/course/view.php?id=782)
+
+## Data Compression Methods
+
+
+## Scrum Agile Development
+## Data intensive applications
+
+## Parallel Programming
