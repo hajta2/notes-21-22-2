@@ -7,5 +7,6 @@ Async course, practice on March 28th.
  - April 4th Written Exam 5 points
  - May 16th Oral exam 5 points
  - Points: (w.e. + o.e * 2) / 3
+
  | Final Grade | 1     | 2       | 3       | 4       | 5    |
  | Points      | 0-1.5 | 1.5-2.5 | 2.5-3.5 | 3.5-4.5 | 4.5- |
